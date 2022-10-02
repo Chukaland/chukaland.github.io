@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
+title: 扯淡
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://chukaland.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -38,7 +38,7 @@ social:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
 google_site_verification: xxxxx
-lang: en
+lang: ch
 
 sass:
   sass_dir: _sass
